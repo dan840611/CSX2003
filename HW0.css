@@ -1,0 +1,41 @@
+* {
+    font-family: 微軟正黑體;
+}
+
+div.name {
+    font-size: 48px;
+    font-weight: 2300;
+    text-decoration-color: grey;
+    text-align: center;
+}
+
+div.content {
+    position: absolute;
+    top: 150px;
+    left: 300px;
+}
+
+div.title {
+    font-size: 28px;
+    font-weight: 900
+}
+
+.first {
+    font-style: italic;
+    font-weight: 700;
+    font-size: 22px;
+}
+
+.year {
+    color: #999;
+    font-size: 20px;
+}
+
+.item {
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.sidebar {
+    padding: 15px;
+}
